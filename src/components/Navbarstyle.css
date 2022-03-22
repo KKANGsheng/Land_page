@@ -1,0 +1,31 @@
+.navbar{
+    width:100%;
+    height:80px;
+    border-bottom:1px solid#333;
+    position:fixed;
+    z-index:2;
+}
+
+.navbar .container{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-items{
+    display:flex;
+}
+
+.links{
+    padding:1rem;
+    font-size:2rem;
+    text-transform: uppercase;
+    font-family:"Source Serif 4",sans-serif;
+}
+
+.hamburger{
+    z-index:5;
+    cursor:pointer;
+}
+
+
