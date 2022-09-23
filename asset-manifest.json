@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Land_page/static/css/main.aa685956.css",
+    "main.js": "/Land_page/static/js/main.77b794f6.js",
+    "static/media/sushi3.jpg": "/Land_page/static/media/sushi3.22fb65b79e8820062eec.jpg",
+    "static/media/sushi1.jpg": "/Land_page/static/media/sushi1.fc8aa785d0bda9735ca9.jpg",
+    "static/media/sushi.jpg": "/Land_page/static/media/sushi.7b9220677ac3b3470d9c.jpg",
+    "static/media/sushi4.jpg": "/Land_page/static/media/sushi4.af3b391044edcd0bcc91.jpg",
+    "static/media/sushi2.jpg": "/Land_page/static/media/sushi2.bf3f6fea48c5ca538ec2.jpg",
+    "index.html": "/Land_page/index.html",
+    "main.aa685956.css.map": "/Land_page/static/css/main.aa685956.css.map",
+    "main.77b794f6.js.map": "/Land_page/static/js/main.77b794f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa685956.css",
+    "static/js/main.77b794f6.js"
+  ]
+}
